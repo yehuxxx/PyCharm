@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 print('I love you')
 
 learn git is easy
 
 learn git is diffult~
-=======
-print('I love you')
->>>>>>> parent of 969adb4... Update test.txt
+
