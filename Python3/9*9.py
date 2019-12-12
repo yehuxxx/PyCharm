@@ -169,3 +169,7 @@ print(True + False)  # 1
 print(True + True)   # 2
 
 
+# Django
+
+# 前端：html，css，bs
+
